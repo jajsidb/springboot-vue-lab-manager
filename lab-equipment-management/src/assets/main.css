@@ -1,0 +1,17 @@
+@import './base.css';
+
+/* Remove default Vue demo layout constraints */
+#app {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  max-width: none;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+}
